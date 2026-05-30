@@ -1,10 +1,10 @@
 # OpenClaw
 智能体记忆存储模块改造（JSON→SQLite）作业
 
-安装虚拟环境：python3.10
-安装库：pip install langchain langchain-community openai python-dotenv -i https://pypi.tuna.tsinghua.edu.cn/simple
+# 安装虚拟环境：python3.10
+# 安装库：pip install langchain langchain-community openai python-dotenv -i https://pypi.tuna.tsinghua.edu.cn/simple
 
- 配置环境和安装库好运行代码文件python agent_test.py
+ # 配置环境和安装库好运行代码文件python agent_test.py
  
 # OpenClaw 智能体记忆存储模块改造（JSON→SQLite）
 
