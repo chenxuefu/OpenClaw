@@ -41,6 +41,9 @@ CREATE TABLE IF NOT EXISTS memories (
     content TEXT NOT NULL
 );
 CREATE INDEX IF NOT EXISTS idx_timestamp ON memories(timestamp);
-## 🔍 四、技术方案设计
-### <img width="764" height="459" alt="image" src="https://github.com/user-attachments/assets/561a77b2-d088-4ee7-b99e-39573e6f7f41" />
+
+
+## 🔍 三、技术方案设计
+### 1. 改造思路
+-<img width="764" height="459" alt="image" src="https://github.com/user-attachments/assets/561a77b2-d088-4ee7-b99e-39573e6f7f41" />
 
