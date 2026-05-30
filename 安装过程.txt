@@ -1,0 +1,6 @@
+
+pip install langchain langchain-community openai python-dotenv -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+
+python agent_test.py
