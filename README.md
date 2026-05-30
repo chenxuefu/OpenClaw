@@ -31,8 +31,10 @@
 - 设计结构化的 `memories` 表，存储对话角色、内容、时间戳
 - 为时间戳字段建立索引，提升时间维度的查询性能
 - 保留原智能体的调用接口，实现无缝替换
-### 2. 改造思路
-- <img width="764" height="459" alt="image" src="https://github.com/user-attachments/assets/561a77b2-d088-4ee7-b99e-39573e6f7f41" />
+### 2. 方案1
+- 内容
+### 3. 方案3
+- 内容
 ### 2. 数据库设计
 ```sql
 CREATE TABLE IF NOT EXISTS memories (
